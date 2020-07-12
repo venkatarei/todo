@@ -20,6 +20,4 @@
   Takes care of requesting and caching of data, as well as updating UI
 
 
-<img width=“964” alt=“UI Client to test API” src=“https://github.com/venkatarei/todo/raw/master/assets/Screen%20Shot%202020-07-12%20at%2011.24.36%20AM.png”>
-
 ![ScreenShot](/assets/Screen%20Shot%202020-07-12%20at%2011.24.36%20AM.png)
