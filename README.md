@@ -10,11 +10,14 @@
                    Queries for getting data,
                    Mutations for inserting, updating and deleting data,
                    Easy and intutive interface
+
 2.Authentication
   Auth0 app - Authentication provider for user login & logout (social auth available)
   Auth0 rules & login
   Hasura access, control rules
+
 3.Expo and React Native setup
+
 4.Apollo Client
   State management library for JavaScript
   Takes care of requesting and caching of data, as well as updating UI
