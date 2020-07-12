@@ -21,7 +21,7 @@
 
 
 
-![ScreenShot](/assets/Screen Shot 2020-07-12 at 11.37.11 AM.png)
+![ScreenShot](/assets/Screen%20Shot%202020-07-12%20at%2011.37.11%20AM.png)
 
 
 
